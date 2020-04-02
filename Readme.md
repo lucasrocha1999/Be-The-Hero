@@ -69,4 +69,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ❤️ by **Rocketseat/mpgxc**
+Feito com ❤️ by **Rocketseat**
